@@ -51,7 +51,7 @@ body {
   margin: 0 auto;
   height: 200px;
   width: 375px;
-  background-image: url(/images/Map.png);
+  background-image: url(images/Map.png);
   background-position: left;
   resize: 40%;
 	background-repeat: no-repeat
