@@ -31,7 +31,7 @@ body {
   z-index: 2;
   position: absolute;
   float: left;
-  padding-top: 3%;
+  padding-top: .45em;
   padding-left: .45em;
 }
 
@@ -42,6 +42,7 @@ body {
   font-size: 1.20em;
   letter-spacing: 2px;
   padding-top: .85em;
+
 }
 
 /* End of nav bar & Start of Map */
@@ -50,7 +51,7 @@ body {
   margin: 0 auto;
   height: 200px;
   width: 375px;
-  background-image: url(../images/Map.png);
+  background-image: url(../images/map.png);
   background-position: left;
   resize: 40%;
 	background-repeat: no-repeat
